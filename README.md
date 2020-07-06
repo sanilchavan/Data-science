@@ -1,1 +1,1 @@
-# Data-science
+# Fake-News Predictor using logistic regression
